@@ -1,6 +1,10 @@
 ## Hi there 👋
 - I’m currently living in Japan, studying Japanese and learning Python.
-- Currently I'm taking the CS50P Course. 
+- Currently:
+  - Reading "Learning Python"
+  - Polishing my Stock Price Project
+- Next:
+  - CS50x
 
 <!--
 **DruadanJP/DruadanJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
