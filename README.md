@@ -2,7 +2,7 @@
 - I’m currently living in Japan, studying Japanese and learning Python.
 - Currently:
   - Reading "Learning Python"
-  - Polishing my Stock Price Project
+  - Polishing my Stock Price and Simple Expense (Budget) Tracker
   - CS50x
 
 <details>
